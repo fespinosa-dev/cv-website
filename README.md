@@ -1,2 +1,3 @@
-# cv-website
-My website
+---
+permalink: /index.html
+---

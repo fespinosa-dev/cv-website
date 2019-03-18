@@ -2167,6 +2167,10 @@ h3.comment-reply-title:after {
 	color: #0099e5;
 	margin-right: 5px;
 }
+.project-general-info .fab {
+	color: #0099e5;
+	margin-right: 5px;
+}
 
 .project-general-info p {
 	margin: 0;
